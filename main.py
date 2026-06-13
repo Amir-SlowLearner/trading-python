@@ -53,10 +53,6 @@ while True:
     time.sleep(2)
 
 
-
-
-
-
 #symbols = ["BTCUSDT", "ETHUSDT"]
 #history.append(mdr)
 #mdr_smooth = sum(history[-10:]) / len(history[-10:])
